@@ -1,0 +1,18 @@
+{
+  "name": "MITT_PROJEKT",
+  "description": "A simple and easy to use comunication program.",
+  "version": "0.0.1",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Magnus Kronnäs <magnus.kronnas@gmail.com> (https://magnus.kronnas.se/)",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "colors": "1.1.x",
+    "easy-web-framework": "^0.1.1",
+    "moment": "^2.24.0",
+    "mustache": "2.3.x"
+  }
+}
